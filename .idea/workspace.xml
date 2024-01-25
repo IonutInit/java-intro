@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e823a16a-082e-4579-9120-762312c6998d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basics/GrossPayCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/GradeMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/GradeMessage_SwitchExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/QuotaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/SalaryCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/TestResults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/GrossPayInputValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/AddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/Cashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AddNumbers.executor": "Run",
+    "Application.Cashier.executor": "Run",
     "Application.GradeMessage.executor": "Run",
     "Application.GradeMessage_SwitchExpressions.executor": "Run",
     "Application.GrossPayCalculator.executor": "Run",
@@ -87,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706175408690</updated>
       <workItem from="1706175410039" duration="234000" />
-      <workItem from="1706175648027" duration="6052000" />
+      <workItem from="1706175648027" duration="9006000" />
     </task>
     <servers />
   </component>
